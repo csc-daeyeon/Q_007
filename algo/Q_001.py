@@ -1,3 +1,4 @@
+#
 S = input()
 N = int(input())
 
