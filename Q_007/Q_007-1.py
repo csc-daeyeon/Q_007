@@ -11,9 +11,9 @@ X_str = str(X)
 
 A = list(map(str, input().split()))
 
-#for i in A:
-#    if X_str in i:
-#        cnt += 1
+for i in A:
+    if X_str in i:
+        cnt += 1
 
 for i in A:
     print(i)
